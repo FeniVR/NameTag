@@ -14,7 +14,7 @@ Mod "NameTag" do **Gorilla Tag** dodaje funkcję wyświetlania nazw graczy nad i
 ## Instalacja
 
 1. **Pobierz mod:**
-   - Ściągnij plik `NameTag.dll` z [releases](link_do_releases) lub innego zaufanego źródła.
+   - Ściągnij plik `NameTag.dll` z [releases](https://github.com/FeniVR/NameTag/releases/tag/v1.0) lub innego zaufanego źródła.
 
 2. **Zainstaluj BepInEx:**
    - Upewnij się, że masz zainstalowany [BepInEx](https://bepinex.github.io/), wymagany do uruchamiania modów w Gorilla Tag.
