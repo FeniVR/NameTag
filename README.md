@@ -24,7 +24,7 @@ Mod "NameTag" do **Gorilla Tag** dodaje funkcję wyświetlania nazw graczy nad i
        `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag`
 
 3. **Skopiuj plik moda:**
-   - Umieść `NameTag.dll` w folderze `BepInEx/plugins`, znajdującym się w katalogu gry Gorilla Tag. Przykładowa ścieżka:
+   - Umieść `NameTagByFeni.dll` w folderze `BepInEx/plugins`, znajdującym się w katalogu gry Gorilla Tag. Przykładowa ścieżka:
      `C:\Program Files (x86)\Steam\steamapps\common\Gorilla Tag\BepInEx\plugins`
 
 4. **Uruchom grę:**
@@ -34,11 +34,12 @@ Mod "NameTag" do **Gorilla Tag** dodaje funkcję wyświetlania nazw graczy nad i
 
 - Mod jest kompatybilny z najnowszą wersją Gorilla Tag 12.08.2024.
 - Może nie współpracować z innymi modami zmieniającymi widoczność graczy lub elementy interfejsu.
+- Mod może nie działać przez starą wersje MonkeModMeneger!
 
 ## Rozwiązywanie problemów
 
 - **Nazwy się nie wyświetlają?**
-  - Sprawdź, czy `NameTag.dll` znajduje się w odpowiednim katalogu (`BepInEx/plugins`).
+  - Sprawdź, czy `NameTagByFeni.dll` znajduje się w odpowiednim katalogu (`BepInEx/plugins`).
   - Upewnij się, że BepInEx jest zainstalowany i działa poprawnie. Powinno pojawić się okno konsoli przy uruchamianiu gry.
 
 - **Problemy z grą?**
@@ -47,12 +48,11 @@ Mod "NameTag" do **Gorilla Tag** dodaje funkcję wyświetlania nazw graczy nad i
 
 ## Odinstalowanie
 
-Aby odinstalować mod "NameTag", usuń plik `NameTag.dll` z folderu `BepInEx/plugins`.
+Aby odinstalować mod "NameTag", usuń plik `NameTagByFeni.dll` z folderu `BepInEx/plugins`.
 
 ## Licencja
 
-Ten mod jest dostarczany w stanie takim, jakim jest, bez gwarancji. Używasz go na własne ryzyko. Dystrybucja i modyfikacja tego moda są dozwolone pod warunkiem uznania autora oryginału.
-
+Ten mod jest dostarczany w stanie takim, jakim jest, bez gwarancji. Używasz go na własne ryzyko. Dystrybucja i modyfikacja tego moda są ZABRONIONE!
 ## Kontakt
 
 Jeśli masz pytania lub sugestie wbij na discorda!
